@@ -1,5 +1,5 @@
 {
-  "image": "mcr.microsoft.com/windows/servercore:ltsc2022",
+  "image": "mcr.microsoft.com/azureml/minimal-ubuntu20.04-py38-cpu-inference:20230329.v1",
   "features": {
   }
 }
